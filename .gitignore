@@ -1,0 +1,27 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Output / generated documents (keep examples if desired)
+output/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Secrets / env files
+.env
+*.env
+
+# Docs
+docs/
+docs_excluded/
+output/
+
